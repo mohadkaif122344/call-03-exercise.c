@@ -20,4 +20,6 @@ Programs List
 6.	Write a program to check whether a date is valid or not.
 7.	Write a program to check whether a number is positive,
     negative or zero using switch case.
-
+8.  Program: Write a program to find whether a character is consonant 
+    or vowel using switch statement.    
+9. Program: Write a program to print whether a given number is even or odd.
